@@ -1,1 +1,9 @@
 @import "~bootstrap/scss/bootstrap";
+
+.row {
+    flex-wrap: wrap;
+}
+
+.card {
+    width: calc((100% / 3));
+}
